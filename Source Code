@@ -106,7 +106,9 @@ def game():
                     current_choice = P1_choice 
             
         if not replay():
-            print("🎉 Thank You For Playing! 🎉")
+            print("🎉🎉 Thank You For Playing! 🎉🎉")
             break  
+
+
         
 game()
